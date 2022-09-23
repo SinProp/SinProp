@@ -4,7 +4,7 @@
 
 I'm an up and coming web developer with experience in multiple full stack frameworks (MERN, Python/Java/MySQL, Java/Spring/MySQL). I envision myself working up the ranks as a developer while sharpening my skills in my personal time for the many a ventures and opportunites that come my way.
 
----
+
 
 ### 🧰 Languages and Tools
 
@@ -19,6 +19,7 @@ I'm an up and coming web developer with experience in multiple full stack framew
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
 
 ---
 Here are some ideas to get you started:
