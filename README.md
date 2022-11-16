@@ -22,7 +22,7 @@ I'm an up and coming web developer with experience in multiple full stack framew
 
 
 ---
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on a continuing education platform for ultrasound techinicians to satisfy certificate requirements online.
 - 🌱 I’m currently learning how to integrate payment API's to my websites.
