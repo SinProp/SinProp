@@ -26,7 +26,7 @@ I'm an up and coming web developer with experience in multiple full stack framew
 
 - 🔭 I’m currently working on a continuing education platform for ultrasound techinicians to satisfy certificate requirements online.
 - 🌱 I’m currently learning how to integrate payment API's to my websites.
-- 👯 I’m looking to collaborate on in dpeth javascript projects
+- 👯 I’m looking to collaborate on in depth javascript projects
 - 🤔 I’m looking for help with scoring a remote coding opportunity.
 - 💬 Ask me about my time at Coding Dojo ⚡️
 - 📫 How to reach me: Email: sinproper@gmail.com
