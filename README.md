@@ -2,7 +2,7 @@
 
 **`Full Stack Developer, Project Manager & Producer`**
 
-I'm an up and coming web developer with experience in multiple full stack frameworks (MERN, Python/Java/MySQL, Java/Spring/MySQL). I envision myself working up the ranks as a developer while sharpening my skills in my personal time for the many a ventures and opportunites that come my way.
+I'm an up and coming software developer with experience in multiple full stack frameworks (MERN, Python/Java/MySQL, Java/Spring/MySQL). I envision myself working up the ranks as a developer while sharpening my skills in my personal time for the many a ventures and opportunites that come my way.
 
 
 
